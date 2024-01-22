@@ -14,6 +14,7 @@ a) **Normalizacja Atrybutów:** Wartości atrybutów zostaną znormalizowane, ab
 b) **Wybór Klasyfikatorów:**
    - k-NN (k-najbliższych sąsiadów)
    - Sieć Neuronowa
+   - Naive Bayes
 
 c) **Testowanie Skuteczności:**
    - Skuteczność każdego z wybranych klasyfikatorów będzie testowana, a ich trafności w klasyfikacji liter będą porównywane.
